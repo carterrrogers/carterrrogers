@@ -5,4 +5,4 @@ Here are some ideas to get you started:
 
 
 -->
-mit 28, bioengineering + AI & Decision Making
+mit 28, bioengineering
